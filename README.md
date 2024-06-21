@@ -1,2 +1,2 @@
-# Learn-JavaScript-Zero-to-Hero
+# Learn JavaScript Zero-to-Hero
  
